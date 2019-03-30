@@ -24,3 +24,10 @@ hs_err_pid*
 
 # vi editing
 *.swp
+
+# idea
+*.xml
+*.iml
+
+# java
+*.java
